@@ -1,4 +1,4 @@
-# Deakin Quantum Federated Learning
+w# Deakin Quantum Federated Learning
 At Deakin University (Melbourne, Australia), we are designing and implementing innovative algorithms, methodologies, and frameworks for the practical implementation and production level deployment of federated quantum learning. 
 
 ###  **Our Recent Works**
@@ -25,8 +25,9 @@ Paper Submitted and Github [link](https://github.com/shanikairoshi/Improved_DUN_
 #### 2. SECURE COMMUNICATION MODEL FOR QFL and Github Link
 Paper [Link](https://openreview.net/pdf?id=xZGPLvRpf4N) and Github [link](https://github.com/s222416822/PQC-QFL-Model)
 
-#### 2. Performance Analysis and Evaluation of Post Quantum Secure Blockchained Federated Learning
+#### 3. Performance Analysis and Evaluation of Post Quantum Secure Blockchained Federated Learning
 Paper [Link](https://arxiv.org/abs/2306.14772) and Github [link](https://github.com/s222416822/Post-Quantum-Secure-BFL)
+
 
 
 
