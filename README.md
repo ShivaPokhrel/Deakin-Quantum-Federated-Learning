@@ -60,7 +60,22 @@ Paper on Progress and Github [link](https://github.com/s222416822/PQF)
 We implement quantum variational circuits on classification problems to define the best approach to quantum federated aggregation using qiskit framework and extend the previously proposed deep unfolding framework in classical federated learning settings to design a quantum-based deep unfolding structure to enhance the quantum aggregation process. Furthermore, we evaluate the proposed architecture with bench-mark datasets and offer future enhancements.
 Paper on Progress and GitHub [link](https://github.com/shanikairoshi/QFL-with-DUN)
 
+###  **Our Collaborators**
 
+###  Dr Shiva Raj Pokhrel 
+He is a Marie Curie Fellow and Senior Lecturer of Mobile Computing. He received the PhD ICT Engineering degree from 
+Swinburne University of Technology, Australia.  He was a research fellow at the University of Melbourne and a 
+Telecom network engineer (2007-2014). His research interests include semantic communication, federated learning, 
+industry 4.0, blockchain modeling, optimization, recommender systems, 6G, cloud computing, dynamics control, 
+Internet of Things and cyber-physical systems, as well as their applications in intelligent manufacturing, 
+autonomous vehicles and cities. He has been in the editorial board of top-notch journals in the field. He 
+serves/served as the Workshop Chair/Publicity Co-Chair for several IEEE/ACM conferences including IEEE INFOCOM, IEEE 
+GLOBECOM, IEEE ICC, ACM MobiCom, and more.  He was a recipient of the prestigious  Marie Curie Fellowship in 2017.
 
-
+### Shanika Iroshi Nanayakkara
+Shanika I. Nanayakkara} received the B.Sc.(Hons) in Information Technology from the University of Moratuwa, Sri 
+Lanka, 2017, the M.Sc. degree in Software Design and Development with Postgraduate University Medal from the Charles 
+Sturt University, Melbourne, Australia, 2021. She is a phD candidate in Federated Learning with Deakin University, 
+Burwood, Australia. Her research interests include Quantum machine learning, deep learning, decentralized deep 
+learning, Quantum federated learning, IoT and programming techniques.
 
