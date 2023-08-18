@@ -25,5 +25,9 @@ Paper [Link](https://openreview.net/pdf?id=xZGPLvRpf4N) and Github [link](https:
 #### 2. SECURE COMMUNICATION MODEL FOR QFL and Github Link
 Paper [Link](https://openreview.net/pdf?id=xZGPLvRpf4N) and Github [link](https://github.com/s222416822/PQC-QFL-Model)
 
+#### 3. Deep Unfolding Framework for QFL and Github Link
+Github [link](https://github.com/shanikairoshi/QFL-with-DUN)
+
+
 
 
