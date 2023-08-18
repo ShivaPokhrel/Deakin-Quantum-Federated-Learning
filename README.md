@@ -21,8 +21,15 @@ At Deakin University (Melbourne, Australia), we are designing and implementing i
 ### Our Ongoing Projects
 
 #### 1. Improving Federated Aggregation with Deep Unfolding Networks
-> Abstract..
-Paper Submitted and Github [link](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation.git)
+> Federated learning (FL) performance is negatively affected by device differences and statistical
+> characteristics between participating clients. To address this issue, we introduce a deep unfolding network (DUN)-
+> based technique that learns adaptive weights that unbiasedly ameliorate the adverse impacts of heterogeneity. The
+> proposed method demonstrates impressive accuracy and quality-aware aggregation. Furthermore, it evaluated the best-
+> weighted normalization approach to define less computational power on the aggregation method. The numerical
+> experiments carried out in this study demonstrate the effectiveness of this approach and provide insights into the
+interpretability of the unbiased weights learned. By incorporating unbiased weights into the model, the proposed
+> approach effectively addresses quality-aware aggregation under heterogeneity of the participating clients and the FL environment.
+> Paper Submitted and Github [link](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation.git)
 
 #### 2. SECURE COMMUNICATION MODEL FOR QFL
 > We design a model of Post Quantum Cryptography (PQC) Quantum Federated
