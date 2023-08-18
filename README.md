@@ -57,7 +57,8 @@ Paper [Link](https://arxiv.org/abs/2306.15708) and Github [link](https://github.
 Paper on Progress and Github [link](https://github.com/s222416822/PQF)
 
 #### 5. Deep Unfolding QFL
-Paper on Progress and Github [link]([https://github.com/shanikairoshi/QFL-with-DUN])
+We implement quantum variational circuits on classification problems to define the best approach to quantum federated aggregation using qiskit framework and extend the previously proposed deep unfolding framework in classical federated learning settings to design a quantum-based deep unfolding structure to enhance the quantum aggregation process. Furthermore, we evaluate the proposed architecture with bench-mark datasets and offer future enhancements.
+Paper on Progress and GitHub [link](https://github.com/shanikairoshi/QFL-with-DUN)
 
 
 
