@@ -56,7 +56,8 @@ Paper [Link](https://arxiv.org/abs/2306.15708) and Github [link](https://github.
 #### 5. Personalized QFL
 Paper on Progress and Github [link](https://github.com/s222416822/PQF)
 
-
+#### 5. Deep Unfolding QFL
+Paper on Progress and Github [link]([https://github.com/shanikairoshi/QFL-with-DUN])
 
 
 
