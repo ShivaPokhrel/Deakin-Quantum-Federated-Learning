@@ -19,14 +19,16 @@ At Deakin University (Melbourne, Australia), we are designing and implementing i
 
 ### Our Ongoing Projects
 
-#### 1. SECURE COMMUNICATION MODEL FOR QFL and Github Link
-Paper [Link](https://openreview.net/pdf?id=xZGPLvRpf4N) and Github [link](https://github.com/s222416822/PQC-QFL-Model)
+#### 1. Improving Federated Aggregation with Deep Unfolding Networks
+Paper Submitted and Github [link](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation.git))
 
 #### 2. SECURE COMMUNICATION MODEL FOR QFL and Github Link
 Paper [Link](https://openreview.net/pdf?id=xZGPLvRpf4N) and Github [link](https://github.com/s222416822/PQC-QFL-Model)
 
-#### 3. Deep Unfolding Framework for QFL and Github Link
-Github [link](https://github.com/shanikairoshi/QFL-with-DUN)
+#### 2. Performance Analysis and Evaluation of Post Quantum Secure Blockchained Federated Learning
+Paper [Link](https://arxiv.org/abs/2306.14772) and Github [link](https://github.com/s222416822/Post-Quantum-Secure-BFL)
+
+
 
 
 
