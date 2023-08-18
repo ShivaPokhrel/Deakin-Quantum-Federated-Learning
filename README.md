@@ -17,12 +17,18 @@ At Deakin University (Melbourne, Australia), we are designing and implementing i
 - [ ] Federated learning meets blockchain at 6G edge: A drone-assisted networking for disaster response
 - [ ] Secure Communication Model For Quantum Federated Learning: A Post Quantum Cryptography (PQC) Framework
 
+--- 
 ### Our Ongoing Projects
 
 #### 1. Improving Federated Aggregation with Deep Unfolding Networks
+> Abstract..
 Paper Submitted and Github [link](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation.git)
 
 #### 2. SECURE COMMUNICATION MODEL FOR QFL
+> We design a model of Post Quantum Cryptography (PQC) Quantum Federated
+Learning (QFL). We develop a proof of concept with a dynamic server selection
+and study convergence and security conditions. We develop a preliminary study
+with a proof of concept model of post-quantum secure QFL.
 Paper [Link](https://openreview.net/pdf?id=xZGPLvRpf4N) and Github [link](https://github.com/s222416822/PQC-QFL-Model)
 
 #### 3. Performance Analysis and Evaluation of Post Quantum Secure Blockchained Federated Learning
