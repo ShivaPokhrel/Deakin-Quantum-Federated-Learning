@@ -71,6 +71,7 @@ Internet of Things and cyber-physical systems, as well as their applications in 
 autonomous vehicles and cities. He has been in the editorial board of top-notch journals in the field. He 
 serves/served as the Workshop Chair/Publicity Co-Chair for several IEEE/ACM conferences including IEEE INFOCOM, IEEE 
 GLOBECOM, IEEE ICC, ACM MobiCom, and more.  He was a recipient of the prestigious  Marie Curie Fellowship in 2017.
+#### Dev Gurung
 
 #### Shanika Iroshi Nanayakkara
 Shanika I. Nanayakkara} received the B.Sc.(Hons) in Information Technology from the University of Moratuwa, Sri 
