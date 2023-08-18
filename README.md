@@ -34,7 +34,7 @@ Paper [Link](arXiv:2306.15708) and Github [link](https://github.com/s222416822/Q
 
 
 #### 5. Personalized QFL
-Paper on Progress and Github [link](https://github.com/s222416822/QFL)
+Paper on Progress and Github [link](https://github.com/s222416822/PQF)
 
 
 
