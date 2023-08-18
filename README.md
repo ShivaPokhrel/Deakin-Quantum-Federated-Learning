@@ -30,7 +30,7 @@ Paper [Link](https://arxiv.org/abs/2306.14772) and Github [link](https://github.
 
 
 #### 4. QFL: Analysis, Design and Implementation
-Paper [Link](arXiv:2306.15708) and Github [link](https://github.com/s222416822/QFL)
+Paper [Link](https://arxiv.org/abs/2306.15708) and Github [link](https://github.com/s222416822/QFL)
 
 
 #### 5. Personalized QFL
