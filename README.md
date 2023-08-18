@@ -62,7 +62,7 @@ Paper on Progress and GitHub [link](https://github.com/shanikairoshi/QFL-with-DU
 
 ###  **Our Collaborators**
 
-###  Dr Shiva Raj Pokhrel 
+####  Dr Shiva Raj Pokhrel 
 He is a Marie Curie Fellow and Senior Lecturer of Mobile Computing. He received the PhD ICT Engineering degree from 
 Swinburne University of Technology, Australia.  He was a research fellow at the University of Melbourne and a 
 Telecom network engineer (2007-2014). His research interests include semantic communication, federated learning, 
@@ -72,7 +72,7 @@ autonomous vehicles and cities. He has been in the editorial board of top-notch 
 serves/served as the Workshop Chair/Publicity Co-Chair for several IEEE/ACM conferences including IEEE INFOCOM, IEEE 
 GLOBECOM, IEEE ICC, ACM MobiCom, and more.  He was a recipient of the prestigious  Marie Curie Fellowship in 2017.
 
-### Shanika Iroshi Nanayakkara
+#### Shanika Iroshi Nanayakkara
 Shanika I. Nanayakkara} received the B.Sc.(Hons) in Information Technology from the University of Moratuwa, Sri 
 Lanka, 2017, the M.Sc. degree in Software Design and Development with Postgraduate University Medal from the Charles 
 Sturt University, Melbourne, Australia, 2021. She is a phD candidate in Federated Learning with Deakin University, 
