@@ -68,7 +68,7 @@ autonomous vehicles and cities. He has been in the editorial board of top-notch 
 serves/served as the Workshop Chair/Publicity Co-Chair for several IEEE/ACM conferences, including IEEE INFOCOM, IEEE 
 GLOBECOM, IEEE ICC, ACM MobiCom, and more.  He was a recipient of the prestigious  Marie Curie Fellowship in 2017.
 
-### Gang Li
+#### Gang Li
 Prof Gang Li, IEEE senior member, received his Ph.D. in computer science in 2005. He joined the School of Information Technology at Deakin University (Australia) as an associate lecturer (2004-2006), lecturer (2007-2011), senior lecturer (2012-2016) and associate professor (2017-2022).  His research interests are in the area of data privacy, machine learning, and business intelligence.
 
 He serves on the IEEE Data Mining and Big Data Analytics Technical Committee (2017-2018 Vice Chair), and IEEE Enterprise Information Systems Technical Committee, IEEE Enterprise Architecture and Engineering Technical Committee, and serves as chair for IEEE Task force on Educational Data Mining (2020-2023 Chair).
