@@ -61,7 +61,7 @@ Technical Report [Link](https://arxiv.org/abs/2306.15708) and Github [link](http
 #### 6. Personalized QFL
 Research on Progress and GitHub [link](https://github.com/s222416822/PQF)
 
-#### 7 Post Quantum Secure Blockchain-based Federated Learning
+#### 7 Post Quantum Secure Blockchained Federated Learning
 We employ Federated Learning (FL) and prominent features of blockchain in MEC architecture, such
 as connected autonomous vehicles to simultaneously enable complete decentralization, immutability, and rewarding mechanisms.
 FL is advantageous for mobile devices with constrained connectivity since it requires model updates to be delivered to a central
@@ -72,7 +72,7 @@ The Federated Learning (BFL) framework, referred to as BFL-MEC, is where the mob
 
 Technical Report [Link](https://arxiv.org/pdf/2302.13258.pdf) and Github [link]()
 
-#### 7. Deep Unfolding QFL
+#### 8. Deep Unfolding QFL
 We implement quantum variational circuits on classification problems to define the best approach to quantum federated aggregation using qiskit framework and extend the previously proposed deep unfolding framework in classical federated learning settings to design a quantum-based deep unfolding structure to enhance the quantum aggregation process. Also, we would like to evaluate the proposed architecture with bench-mark datasets and offer future enhancements.
 Research on Progress and GitHub [link](https://github.com/shanikairoshi/QFL-with-DUN)
 
