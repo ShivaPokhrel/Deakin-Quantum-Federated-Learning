@@ -11,8 +11,8 @@ At Deakin University (Melbourne, Australia), we are designing and implementing i
 - [ ] Post Quantum Secure Blockchain-based Federated Learning for Mobile Edge Computing
 - [ ] FAIR-BFL: Flexible and Incentive Redesign for Blockchain-based Federated Learning 
 - [ ] Federated learning with blockchain for autonomous vehicles: Analysis and design challenges
-- [ ] A blockchained federated learning framework for cognitive computing in industry 4.0 networks
-- [ ] A decentralized federated learning approach for connected autonomous vehicles
+- [ ] Blockchained federated learning framework for cognitive computing in industry 4.0 networks
+- [ ] Decentralized federated learning approach for connected autonomous vehicles
 - [ ] Blockchain brings trust to collaborative drones and leo satellites: An intelligent decentralized learning in the space
 - [ ] Federated learning meets blockchain at 6G edge: A drone-assisted networking for disaster response
 - [ ] Secure Communication Model For Quantum Federated Learning: A Post Quantum Cryptography (PQC) Framework
