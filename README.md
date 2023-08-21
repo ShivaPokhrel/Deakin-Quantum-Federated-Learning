@@ -79,7 +79,7 @@ Research on Progress and GitHub [link](https://github.com/shanikairoshi/QFL-with
 ###  **Principal Investigators**
 
 ####  Shiva Raj Pokhrel 
-Dr Pokhrel, IEEE Senior Member and Marie Curie Fellow, is a Senior Mobile and Quantum Computing Lecturer. His research interests include Quantum Machine Learning, semantic communication, federated learning, industry 4.0, blockchain modeling, optimization, recommender systems, 6G, cloud computing, dynamics control, Internet of Things, cyber-physical systems, applications in intelligent manufacturing, autonomous vehicles, and cities. He has been on the editorial board of top-notch journals in the field. He 
+Dr Shiva Pokhrel, IEEE Senior Member and Marie Curie Fellow, is a Senior Mobile and Quantum Computing Lecturer. His research interests include Quantum Machine Learning, semantic communication, federated learning, industry 4.0, blockchain modeling, optimization, recommender systems, 6G, cloud computing, dynamics control, Internet of Things, cyber-physical systems, applications in intelligent manufacturing, autonomous vehicles, and cities. He has been on the editorial board of top-notch journals in the field. He 
 serves/served as the Workshop Chair/Publicity Co-Chair for several IEEE/ACM conferences, including IEEE INFOCOM, IEEE 
 GLOBECOM, IEEE ICC, ACM MobiCom, and more.  He was a recipient of the prestigious  Marie Curie Fellowship in 2017.
 
