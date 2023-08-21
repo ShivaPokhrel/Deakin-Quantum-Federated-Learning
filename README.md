@@ -71,7 +71,7 @@ Internet of Things and cyber-physical systems, as well as their applications in 
 autonomous vehicles and cities. He has been in the editorial board of top-notch journals in the field. He 
 serves/served as the Workshop Chair/Publicity Co-Chair for several IEEE/ACM conferences including IEEE INFOCOM, IEEE 
 GLOBECOM, IEEE ICC, ACM MobiCom, and more.  He was a recipient of the prestigious  Marie Curie Fellowship in 2017.
-#### Dev Gurung
+
 
 #### Shanika Iroshi Nanayakkara
 Shanika I. Nanayakkara} received the B.Sc.(Hons) in Information Technology from the University of Moratuwa, Sri 
@@ -79,4 +79,8 @@ Lanka, 2017, the M.Sc. degree in Software Design and Development with Postgradua
 Sturt University, Melbourne, Australia, 2021. She is a phD candidate in Federated Learning with Deakin University, 
 Burwood, Australia. Her research interests include Quantum machine learning, deep learning, decentralized deep 
 learning, Quantum federated learning, IoT and programming techniques.
+
+
+#### Dev Gurung
+Dev Gurung is a current student at Deakin University.
 
