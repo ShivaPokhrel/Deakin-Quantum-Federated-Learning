@@ -77,7 +77,7 @@ He acts as an associate editor for Decision Support Systems (Elsevier), IEEE Acc
 
 
 #### Shanika Iroshi Nanayakkara
-Shanika I. Nanayakkara} received the B.Sc.(Hons) in Information Technology from the University of Moratuwa, Sri 
+Shanika I. Nanayakkara received the B.Sc.(Hons) in Information Technology from the University of Moratuwa, Sri 
 Lanka, 2017, the M.Sc. degree in Software Design and Development with Postgraduate University Medal from the Charles 
 Sturt University, Melbourne, Australia, 2021. She is a PhD candidate in Federated Learning at Deakin University, 
 Burwood, Australia. Her research interests include Quantum machine learning, deep learning, decentralized deep 
