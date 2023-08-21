@@ -61,6 +61,17 @@ Technical Report [Link](https://arxiv.org/abs/2306.15708) and Github [link](http
 #### 6. Personalized QFL
 Research on Progress and GitHub [link](https://github.com/s222416822/PQF)
 
+#### 7 Post Quantum Secure Blockchain-based Federated Learning
+We employ Federated Learning (FL) and prominent features of blockchain in MEC architecture, such
+as connected autonomous vehicles to simultaneously enable complete decentralization, immutability, and rewarding mechanisms.
+FL is advantageous for mobile devices with constrained connectivity since it requires model updates to be delivered to a central
+point instead of substantial data communication. For instance, FL in autonomous, connected vehicles can increase data
+diversity and allow model customization, and predictions are possible even when the cars are not connected (by exploiting their local models) for short times. However, existing synchronous FL and Blockchain incur extremely high communication costs
+due to mobility-induced impairments and do not apply directly to MEC networks. We propose a fully asynchronous Blockchained
+The Federated Learning (BFL) framework, referred to as BFL-MEC, is where the mobile clients and their models evolve independently yet guarantee stability in the global learning process. More importantly, we employ post-quantum secure features over BFL-MEC to verify the client’s identity and defend against malicious attacks. 
+
+Technical Report [Link](https://arxiv.org/pdf/2302.13258.pdf) and Github [link]()
+
 #### 7. Deep Unfolding QFL
 We implement quantum variational circuits on classification problems to define the best approach to quantum federated aggregation using qiskit framework and extend the previously proposed deep unfolding framework in classical federated learning settings to design a quantum-based deep unfolding structure to enhance the quantum aggregation process. Also, we would like to evaluate the proposed architecture with bench-mark datasets and offer future enhancements.
 Research on Progress and GitHub [link](https://github.com/shanikairoshi/QFL-with-DUN)
