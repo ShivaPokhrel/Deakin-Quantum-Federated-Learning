@@ -98,7 +98,7 @@ learning, Quantum federated learning, IoT, and programming techniques.
 
 
 #### Dev Gurung
-Dev Gurung is a PhD candidate in Federated Learning at Deakin University, Burwood, Australia. Her research interests include federated quantum learning, metaverse, blockchain and their applications in intelligent manufacturing, autonomous vehicles and cities.
+Dev Gurung is a PhD candidate in Federated Learning at Deakin University, Burwood, Australia. His research interests include federated quantum learning, metaverse, blockchain and their applications in intelligent manufacturing, autonomous vehicles and cities.
 
 #### Rongxin Xu 
 Rongxin Xu received his bachelor's degree in management from Hunan University, China, in 2020. He is pursuing a master's degree at Business School, Hunan University, Changsha, China. His research interests include federated learning, blockchain, and data science.
